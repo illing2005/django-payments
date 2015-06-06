@@ -244,7 +244,7 @@ Sofort.com
 Example::
 
       PAYMENT_VARIANTS = {
-          'sage': ('payments.sofort.SofortProvider', {
+          'sofort': ('payments.sofort.SofortProvider', {
               'id': '123456',
               'key': '1234567890abcdef',
               'project_id': '654321',
