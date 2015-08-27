@@ -19,7 +19,7 @@ PACKAGES = [
 
 REQUIREMENTS = [
     'Django>=1.5',
-    'pycrypto>=2.6',
+    'pycrypto>=2.3',
     'PyJWT',
     'requests>=1.2.0',
     'stripe>=1.9.8',
